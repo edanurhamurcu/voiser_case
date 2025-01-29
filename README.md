@@ -4,13 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a Flutter case study application by Voiser AI.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ScreenShots
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/26821872-71ef-493e-920c-9a0d3cc8002e" width="400" alt="Ana Ekran">
+  <img src="https://github.com/user-attachments/assets/bcd73874-9dc1-46de-8766-c7d49119e74e" width="400" alt="Video Oluşturma Ekranı">
+</div>
+
+
